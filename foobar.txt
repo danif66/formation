@@ -5,4 +5,5 @@ cinema
 beau temps
 femmes
 a boire
-
+maison
+voiture
